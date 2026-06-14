@@ -1,5 +1,7 @@
 # Lukman Console
 
+![Lukman Console Hero](docs/hero.png)
+
 A lightweight standalone PHP console package.
 
 ## Requirements
